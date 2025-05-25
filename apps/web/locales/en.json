@@ -1,0 +1,11 @@
+{
+  "home": {
+    "title": "Welcome",
+    "subtitle": "This is a multilingual Next.js app"
+  },
+  "auth": {
+    "login": {
+      "button": "Log In"
+    }
+  }
+}

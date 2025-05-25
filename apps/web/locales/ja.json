@@ -1,0 +1,11 @@
+{
+  "home": {
+    "title": "ようこそ",
+    "subtitle": "これは多言語対応のNext.jsアプリです"
+  },
+  "auth": {
+    "login": {
+      "button": "ログイン"
+    }
+  }
+}

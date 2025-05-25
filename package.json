@@ -1,0 +1,10 @@
+{
+  "name": "copilot-i18n-turbo-template",
+  "private": true,
+  "workspaces": [
+    "apps/*"
+  ],
+  "devDependencies": {
+    "turbo": "latest"
+  }
+}
